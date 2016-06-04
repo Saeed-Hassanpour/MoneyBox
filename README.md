@@ -7,15 +7,15 @@ Example:
 Name : P6_SALARY
 Type : NumberField
 
-Custom Attributes :=
+Custom Attributes=>
  onchange="valueChange('P6_SALARY');" onkeyup="contentKeyUp('P6_SALARY');" onblur="blurContent('P6_SALARY');" onfocus="focusContent('P6_SALARY');"
 
-Pre Text:
+Pre Text=>
 <dl id="p6_salary_show_money" isrequired="True">
     <dt>
 
 
-Post Text:
+Post Text=>
 </dt>
     <dd>
         <ul id="p6_salary_show_money_text" style="display: none;"></ul>
